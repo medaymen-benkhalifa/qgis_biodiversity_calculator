@@ -1,0 +1,2 @@
+# qgis_biodiversity_calculator
+Calculates biodiversity indices
